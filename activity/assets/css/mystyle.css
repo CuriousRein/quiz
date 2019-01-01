@@ -29,5 +29,20 @@
     text-shadow: 2px 2px 10px gray;
 }
 .space{
-    margin:.5em
+    margin:5em
+}
+.subject{
+    background: rgba(77, 63, 145, 0.5);
+    border: 1em solid white;
+    text-align-last: center;
+    color: white;
+    box-shadow: 5px 5px 8px solid gray;
+    max-height: 300px;
+}
+.content{
+    padding: 5%;
+    
+}
+.subject-content{
+    padding: 8%;
 }
