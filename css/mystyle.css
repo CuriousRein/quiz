@@ -1,0 +1,60 @@
+.questionaire{
+    width: 80%;
+    margin: 0 auto;
+}
+.label{
+    color:#000;
+    font-size: 1.3em;
+}
+.label input[type="radio"]{
+    padding: 1em;
+    margin-left: 2em;
+}
+#question{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+#warn{
+    color: tomato;
+    font-weight: bolder;
+}
+.promo{
+    align-content: center;
+    text-align: center;
+    padding: 10%;
+    
+}
+.promo h1{
+    font-size: 4em;
+    font-family: fantasy;  
+    text-shadow: 2px 2px 10px gray;
+}
+.subject{
+    border: .5em solid #cccccc;
+    background: rgb(179, 0, 0);
+    padding: 1em;
+    text-align-last: center;
+    color: white;
+    /* box-shadow: 5px 5px 8% solid rgb(32, 5, 5); */
+}
+.header{
+    background-color: rgb(179, 0, 0);
+}
+.nav .navbar-nav ul li a{
+    color: gold;
+}
+.logo{
+    margin-top: -.9em;
+}
+.purple{
+    margin-top: -20px;
+    background: url("../images/bg1.jpg");
+    color: aliceblue;
+    padding: 3em 0 4em 0;
+}
+#dis{
+    padding:1em;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: whitesmoke;
+}
